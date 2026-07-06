@@ -1,4 +1,4 @@
-# 
+# Advanced RiskGuard bundle. Download and install with command-line-interface and compatibility-check — fast, secure, and easy to use.
 
 
 
